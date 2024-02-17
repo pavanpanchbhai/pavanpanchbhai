@@ -10,11 +10,7 @@
 
 <p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning Full-Stack Development, Next.js, React.js, Vue.js, MongoDB, and Java DSA.<br>🎯 Goals: Earn dollars 💰💵💴💹, live in a cold place ❄️, and go on a world tour 🌍🗺️.<br>🎲 Also, I enjoy going to the gym and listening to book summaries.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanpanchbhai&label=Profile%20views&color=0e75b6&style=flat" alt="pavanpanchbhai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavanpanchbhai" alt="pavanpanchbhai" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bdeniyel" target="blank"><img src="https://img.shields.io/twitter/follow/bdeniyel?logo=twitter&style=for-the-badge" alt="bdeniyel" /></a> </p>
 
 - 🔭 I’m currently working on [Youtube-Clone](https://github.com/pavanpanchbhai/01-youtube-clone-in-recat.js.git)
 
